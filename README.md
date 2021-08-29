@@ -1,4 +1,4 @@
-<h1 align="center" > Desafios de código do Bootcamp Digital Innovation One (DIO) </h1>
+<h1 align="center" > Desafios de código do Bootcamp LocalizaLabs React Developer na Digital Innovation One (DIO) </h1>
 
 <h2>Operações artiméticas: Desafios e Respostas </h2>
 
